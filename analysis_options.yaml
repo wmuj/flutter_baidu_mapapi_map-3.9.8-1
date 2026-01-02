@@ -1,0 +1,27 @@
+# include: package:pedantic/analysis_options.1.9.0.yaml
+
+analyzer:
+  errors:
+    unused_import: warning
+    unused_shown_name: warning
+  exclude:
+    - 'doc/**'
+    - 'lib/src/third_party/pkg/**'
+    - 'lib/templates/*.html'
+    - 'pub.dartlang.org/**'
+    - 'testing/**'
+    - 'testing/test_package_flutter_plugin/**'
+    - 'testing/test_package_export_error/**'
+linter:
+  rules:
+    # - always_declare_return_types
+    - annotate_overrides
+    - avoid_init_to_null
+    - directives_ordering
+    - no_adjacent_strings_in_list
+    - package_api_docs
+    - prefer_final_fields
+    - prefer_generic_function_type_aliases
+    - slash_for_doc_comments
+    - unawaited_futures
+#    - unnecessary_brace_in_string_interps

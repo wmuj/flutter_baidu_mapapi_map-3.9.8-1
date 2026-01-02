@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "flutter_baidu_mapapi_map",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

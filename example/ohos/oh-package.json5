@@ -1,0 +1,13 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "flutter_baidu_mapapi_map_example",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.6"
+  }
+}

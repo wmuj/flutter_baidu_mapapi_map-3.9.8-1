@@ -1,0 +1,55 @@
+newmtl Model001_Material001
+Ns 32
+d 1
+Tr 0
+Tf 1 1 1
+illum 2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.3500 0.3500 0.3500
+map_Kd textures/Batman_V3_Cape_DS_1-4_D.jpg
+
+newmtl Model001_Material002
+Ns 32
+d 1
+Tr 0
+Tf 1 1 1
+illum 2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.3500 0.3500 0.3500
+map_Kd textures/Batman_V3_Cape_DS_1-4_D.jpg
+
+newmtl Model001_Material003
+Ns 32
+d 1
+Tr 0
+Tf 1 1 1
+illum 2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.3500 0.3500 0.3500
+map_Kd textures/DLC3_Batman1970_head_D.jpg
+
+newmtl Model001_Material004
+Ns 32
+d 1
+Tr 0
+Tf 1 1 1
+illum 2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.3500 0.3500 0.3500
+map_Kd textures/DLC3_Batman1970_leg_D.jpg
+
+newmtl Model001_Material005
+Ns 32
+d 1
+Tr 0
+Tf 1 1 1
+illum 2
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.3500 0.3500 0.3500
+map_Kd textures/DLC3_Batman1970_torso_D.jpg
+
