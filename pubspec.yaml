@@ -1,5 +1,5 @@
 name: flutter_baidu_mapapi_map
-description: The flutter_baidu_mapapi_map is a flutter plugin of basic map for baidu map, You can use it to develop map page for Flutter application.
+description: Baidu Map Flutter plugin for Android/iOS with map display, overlays, interactions, and detailed usage documentation.
 version: 3.9.8+1
 # author: Baidu Map SDK team
 homepage: https://lbsyun.baidu.com/index.php?title=flutter/loc
