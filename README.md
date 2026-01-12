@@ -1,6 +1,6 @@
-# flutter_baidu_mapapi_map（Baidu Map Flutter 插件）
+# flutter_baidu_mapapi_map（Baidu Map Flutter 插件 / 维护分支）
 
-一个用于 **百度地图（Baidu Map）** 的 Flutter 插件，支持 **Android / iOS** 平台，提供地图展示、覆盖物、交互回调等基础能力，并补充了详细 API 使用文档。
+一个用于 **百度地图（Baidu Map）** 的 Flutter 插件维护分支，支持 **Android / iOS** 平台，提供地图展示、覆盖物、交互回调等基础能力，并补充了详细 API 使用文档。
 
 > 本仓库是 `flutter_baidu_mapapi_map` 的维护分支（fork 版本），  
 
