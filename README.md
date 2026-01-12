@@ -19,7 +19,14 @@
 - 适配较新的 Flutter Stable 版本
   
 - ❌ **不支持 HarmonyOS / OHOS**
-  
+
+---
+
+## 📘 详细使用文档
+
+请参阅插件的详细使用说明与 API 列表：  
+[docs/USAGE.md](docs/USAGE.md)
+
 
 ---
 
